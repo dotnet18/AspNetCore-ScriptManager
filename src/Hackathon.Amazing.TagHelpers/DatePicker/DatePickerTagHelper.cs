@@ -4,7 +4,7 @@ using System.Text;
 using Hackathon.TagHelpers.ScriptManager.Core;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 
-namespace Hackathon.Amazing.TagHelpers
+namespace Hackathon.Amazing.TagHelpers.DatePicker
 {
     public class DatePickerTagHelper : TagHelper
     {
